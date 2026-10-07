@@ -1327,7 +1327,12 @@
                 }
             },
             "xt_generic_select": {
-                "name": "{name}"
+                "name": "{name}",
+                "state": {
+                    "comfor": "Comfort",
+                    "eco": "Eco",
+                    "prog": "Program"
+                }
             },
             "basic_anti_flicker": {
                 "name": "Anti-flicker",
